@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "ssd",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name": "Raton",
+    "price": 120
+  },
+  {
+    "id": 3,
+    "name": "teclado 60%",
+    "price": 250
+  },
+  {
+    "id": 4,
+    "name": "Alfombrilla irelia",
+    "price": 50
+  }
+]
